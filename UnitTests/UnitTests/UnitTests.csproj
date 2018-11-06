@@ -80,6 +80,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculadora\Calculadora.cs" />
+    <Compile Include="Calculadora\CalculadoraTests.cs" />
     <Compile Include="Exemplo1\ContaCorrente.cs" />
     <Compile Include="Exemplo1\ContaCorrenteRepositorio.cs" />
     <Compile Include="Exemplo1\ContaCorrenteServico.cs" />
